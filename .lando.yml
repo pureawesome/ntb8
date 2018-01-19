@@ -1,0 +1,4 @@
+name: ntb-8
+recipe: drupal8
+config:
+  webroot: .
